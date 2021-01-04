@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+     /* background-image: url(./images/neutra\ 5.jpg);  */
+     /* background-image: url(https://lorempixel.com/580/250/nature/2); */
+}
+footer{
+    /* background-image: url(https://lorempixel.com/580/250/nature/2); */
+   /* background-image: url(https://lorempixel.com/50.40480/250/nature/1);*/
+     background-color: turquoise
+    /* background-image: url(https://lorempixel.com/580/250/nature/3); */
+}
+.footer-copyright{
+    background-color: rgb(42, 139, 130);
+}
